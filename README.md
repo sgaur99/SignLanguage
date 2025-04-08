@@ -4,7 +4,6 @@ This project demonstrates a hand gesture recognition system using the [LeapGestR
 
 ## Project Details
 
-- 📍 Developed as a Minor Project at Amity University, Noida
 - 📁 Dataset: LeapGestRecog (Leap Motion Controller)
 - 🤖 Model: CNN using TensorFlow/Keras
 - 🔍 Tasks:
@@ -30,3 +29,19 @@ This project demonstrates a hand gesture recognition system using the [LeapGestR
 ## How to Run
 
 1. Install dependencies:
+pip install -r requirements.txt
+
+2. Ensure you have the dataset downloaded and extracted in your working directory.
+
+3. Run the notebook:
+
+jupyter notebook SignLang.ipynb
+
+
+## Acknowledgments
+
+Dataset by GTI-UPM: https://www.kaggle.com/gti-upm/leapgestrecog
+
+## License
+
+This project is for academic use.
